@@ -42,4 +42,4 @@ Dynamic slicers for Human Resources, Reasearch and Development, Sales, and Gende
 
 🖼️ Dashboard Preview:
 
-(https://github.com/bhumikavasanta/HR_Analytics/blob/main/HR_Analytics_Screenshot.png)
+![HR Analytics Dashboard](https://github.com/bhumikavasanta/HR_Analytics/blob/main/HR_Analytics_Screenshot.png)
